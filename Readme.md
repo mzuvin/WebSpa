@@ -4,10 +4,7 @@ A simple build for .Net Core Mvc that provides faster page transitions
 
 ## demo
 
-
-`wait for the server to boot up`
-
-[demo link](https://webspademo.herokuapp.com/)
+[demo link](https://webspademo.azurewebsites.net/)
 
 ## How to use
 
